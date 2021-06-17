@@ -4,3 +4,8 @@ body {
   grid-gap: 20px;
   grid-template-areas: "navbar mainContent";
 }
+
+#navbar {
+  grid-area: navbar;
+  position: fixed;
+}
