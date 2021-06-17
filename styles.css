@@ -9,3 +9,16 @@ body {
   grid-area: navbar;
   position: fixed;
 }
+
+#navbar a {
+  display: block;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px 0;
+  text-decoration: none;
+  color: black;
+}
+
+#main-doc {
+  grid-area: mainContent;
+}
