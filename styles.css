@@ -1,0 +1,6 @@
+body {
+  display: grid;
+  grid-template-columns: minmax(300px, auto) 1fr;
+  grid-gap: 20px;
+  grid-template-areas: "navbar mainContent";
+}
