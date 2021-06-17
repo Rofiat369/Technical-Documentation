@@ -3,7 +3,7 @@ body {
   grid-template-columns: minmax(300px, auto) 1fr;
   grid-gap: 20px;
   grid-template-areas: "navbar mainContent";
-  background-image: url(Protesters-fire.jpg);
+  background-image: url(ayanfe-olarinde-wz48H7EZNbg-unsplash.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: aliceblue;
