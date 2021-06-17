@@ -4,6 +4,9 @@ body {
   grid-gap: 20px;
   grid-template-areas: "navbar mainContent";
   background-image: url(Protesters-fire.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  color: aliceblue;
 }
 
 #navbar {
